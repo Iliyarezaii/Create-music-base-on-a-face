@@ -12,12 +12,12 @@ pygame.mixer.init()
 
 # Music files mapped to emotions
 music_map = {
-    "angry": "Musics/Soft_and_Furious_-_05_-_Through_the_water_and_rain(chosic.com).mp3",
-    "sad": "Musics/Rodrigo-Excerpt-From-Concierto-Aranquez-mosbat.net.mp3",
-    "happy": "Musics/Uplifting_Summer_Tropical_Dance.mp3",
-    "surprise": "Musics/MediaBaz.net-whoah-.mp3",
-    "neutral": "Musics/meditation-music-blog-(6).mp3",
-    "fear": "Musics/Download Remix Tarsnak Bikalam Nubmer 01 [Melodya].mp3"
+    "angry": "Soft_and_Furious_-_05_-_Through_the_water_and_rain(chosic.com).mp3",
+    "sad": "Rodrigo-Excerpt-From-Concierto-Aranquez-mosbat.net.mp3",
+    "happy": "Uplifting_Summer_Tropical_Dance.mp3",
+    "surprise": "MediaBaz.net-whoah-.mp3",
+    "neutral": "meditation-music-blog-(6).mp3",
+    "fear": "Download Remix Tarsnak Bikalam Nubmer 01 [Melodya].mp3"
 }
 
 # Start Video Feed
