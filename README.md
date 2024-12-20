@@ -13,6 +13,8 @@ This project uses **Streamlit**, **OpenCV**, **DeepFace**, and **pygame** to cre
 
 Check out the demo or clone the repository to try it locally! 😃
 
+https://github.com/Iliyarezaii/Create-Music-Based-on-a-Face/issues/1#issue-2752438953
+
 ## 🛠️ Requirements
 
 You will need **Python 3.7+** and the following dependencies to run this app:
